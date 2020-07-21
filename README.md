@@ -2,16 +2,16 @@
 A place to track NetApp WFA functionality to Ansible modules transition
 
 1. Business logic
- *need definition*
+  * *need definition*
 
 2. Chargeback
- *need definition*
+  * *need definition*
 
 3. Incremental naming
- *need definition*
+  * *need definition*
 
 4. Reservations
- *need definition*
+  * *need definition*
 
 5. Extended datasources 
- *need definition*
+  * *need definition*
